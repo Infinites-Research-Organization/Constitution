@@ -18,7 +18,7 @@ Our mission is to build, audit, and open-source technologies that protect indivi
 
 * **Security Auditing & Penetration Testing:** Open utilities for network defense, security auditing, and vulnerability assessment.
 * **Signals Intelligence & Detection:** Frameworks to detect rogue or unwanted surveillance devices, such as hidden Wi-Fi cameras and tracking tags.
-* **Advanced R&D:** Researching and Developing machine learning architectures, cryptographic protocols, and secure wireless communication/detection
+* **Advanced R&D:** Researching and Developing machine learning architectures, cryptographic protocols, and secure wireless communication/RF detection
 * **Passive RF Detection & Signal Processing:** Developing algorithms for passive radar and RF-based object detection utilizing commercial off-the-shelf Software Defined Radio (SDR) equipment.
 
 ### 2. Anti-Surveillance Countermeasures
