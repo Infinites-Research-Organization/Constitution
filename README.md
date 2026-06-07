@@ -5,7 +5,7 @@ This document outlines our foundational governance framework and core research p
 ## Issues Pending Upcoming Vote
 
 * **Mitigation of External Influence:** Protocols to prevent government, regulatory, or corporate funding from compromising our research neutrality.
-* **Technological Boundaries:** Absolute limits on what we will not develop, such as mass-surveillance systems or offensive cyber-weapons.
+* **Technological Boundaries:** Absolute limits on what we will not develop, such as mass-surveillance systems or offensive cyber-weapons. — *draft for review: [TECHNOLOGICAL_BOUNDARIES.md](TECHNOLOGICAL_BOUNDARIES.md)*
 * **Publication Architecture:** Deciding between an unconditional "Open Source by Default" model or a case-by-case framework
 
 ---
